@@ -1,4 +1,4 @@
-# The Bootstrap 4 Bootcamp Course by Colt Stile
+# The Bootstrap 4 Bootcamp Course by Colt Steele
 ## Learn to build beautiful responsive websites with the latest Bootstrap version (4.1.3), Flexbox, HTML5, and CSS3!
 
 ### Lo que aprenderás: 
